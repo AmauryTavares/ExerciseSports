@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Atlético GO",
+    "strength": 5,
+    "hash_name": 0,
+    "image_path": "atl_go_45x45"
+  },
+  {
+    "id": 2,
+    "name": "Atlético MG",
+    "strength": 7,
+    "hash_name": 0,
+    "image_path": "atl_mg_45x45"
+  },
+  {
+    "id": 3,
+    "name": "Bahia",
+    "strength": 3,
+    "hash_name": 0,
+    "image_path": "bahia_45x45"
+  },
+  {
+    "id": 4,
+    "name": "Bahia",
+    "strength": 1,
+    "hash_name": 0,
+    "image_path": "botafogo_45x45"
+  },
+  {
+    "id": 5,
+    "name": "Corinthians",
+    "strength": 5,
+    "hash_name": 0,
+    "image_path": "corinthians_45x45"
+  },
+  {
+    "id": 6,
+    "name": "Curitiba",
+    "strength": 2,
+    "hash_name": 0,
+    "image_path": "coritiba_45x45"
+  },
+  {
+    "id": 7,
+    "name": "Cruzeiro",
+    "strength": 8,
+    "hash_name": 0,
+    "image_path": "cruzeiro_45x45"
+  },
+  {
+    "id": 8,
+    "name": "Figueirense",
+    "strength": 6,
+    "hash_name": 0,
+    "image_path": "figueirense_45x45"
+  },
+  {
+    "id": 9,
+    "name": "Flamengo",
+    "strength": 4,
+    "hash_name": 0,
+    "image_path": "flamengo_45x45"
+  },
+  {
+    "id": 10,
+    "name": "Fluminense",
+    "strength": 2,
+    "hash_name": 0,
+    "image_path": "fluminense_45"
+  },
+  {
+    "id": 11,
+    "name": "Grêmio",
+    "strength": 1,
+    "hash_name": 0,
+    "image_path": "gremio_45x45"
+  },
+  {
+    "id": 12,
+    "name": "Internacional",
+    "strength": 6,
+    "hash_name": 0,
+    "image_path": "internacional_45x45"
+  },
+  {
+    "id": 13,
+    "name": "Náutico",
+    "strength": 2,
+    "hash_name": 0,
+    "image_path": "nautico_45"
+  },
+  {
+    "id": 14,
+    "name": "Palmeiras",
+    "strength": 8,
+    "hash_name": 0,
+    "image_path": "palmeiras_45x45"
+  },
+  {
+    "id": 15,
+    "name": "Ponte Preta",
+    "strength": 3,
+    "hash_name": 0,
+    "image_path": "ponte_preta_45"
+  },
+  {
+    "id": 16,
+    "name": "Portuguesa",
+    "strength": 6,
+    "hash_name": 0,
+    "image_path": "portuguesa_sp45"
+  },
+  {
+    "id": 17,
+    "name": "Santos",
+    "strength": 7,
+    "hash_name": 0,
+    "image_path": "santos_45x45"
+  },
+  {
+    "id": 18,
+    "name": "São Paulo",
+    "strength": 3,
+    "hash_name": 0,
+    "image_path": "sao_paulo_45x45"
+  },
+  {
+    "id": 19,
+    "name": "Sport",
+    "strength": 8,
+    "hash_name": 0,
+    "image_path": "sport_45"
+  },
+  {
+    "id": 20,
+    "name": "Vasco",
+    "strength": 2,
+    "hash_name": 0,
+    "image_path": "vasco_45x45"
+  }
+]
